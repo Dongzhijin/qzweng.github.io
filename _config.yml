@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qizhen WENG (翁祈桢)"
+title                    : "Qizhen Weng 翁祈桢"
 title_separator          : "-"
-name                     : &name "Qizhen WENG (翁祈桢)"
+name                     : &name
 description              : &description "personal description"
 url                      : https://qzweng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qizhen WENG (翁祈桢)"
-  avatar           : "profile.png"
-  bio              : "PhD Candidate of Computer Science, Hong Kong University of Science and Technology"
+  name             : "Qizhen Weng 翁祈桢"
+  avatar           : "photo.jpg"
+  bio              : "Ph.D. Candidate of Computer Science and Engineering, Hong Kong University of Science and Technology"
   location         : Hong Kong SAR, China #"Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?&user=DRK_fx4AAAAJ # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
