@@ -14,20 +14,20 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 ## Education
 **Hong Kong University of Science and Technology, Hong Kong SAR, China**
-- Ph.D. Candidate, Department of Computer Science and Engineering, Sep. 2017 – present
+- Ph.D. Candidate, Department of Computer Science and Engineering, Sep. 2017 –- present
 - Supervisor: [Wei WANG](https://www.cse.ust.hk/~weiwa/)
 
 **University of California, Berkeley, CA, US**
-- Exchange student, Jun. 2015 – Aug. 2015
+- Exchange student, Jun. 2015 -– Aug. 2015
 
 **Shanghai JiaoTong University, Shanghai, China**
-- B.Eng. (Shanghai Outstanding Graduates), Information Security, Sep. 2013 – Jun. 2017
+- B.Eng. (Shanghai Outstanding Graduates), Information Security, Sep. 2013 –- Jun. 2017
 
 
 ## Publications
 - Huangshi Tian, **Qizhen Weng**, and Wei Wang,
 ''[Towards Framework-Independent, Non-Intrusive Performance Characterization for Dataflow Computation](https://qzweng.github.io/files/2019ApSys-Perf-Tian.pdf),''
-in the Proceedings of ACM SIGOPS Asia-Pacific Workshop on Systems *(APSys ’19)*,
+in the Proceedings of ACM SIGOPS Asia-Pacific Workshop on Systems *(APSys’19)*,
 Hangzhou, China, August 2019.
 
 - Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li,
@@ -43,7 +43,7 @@ Systems *(ICDCS’18)*, Vienna, Austria, July, 2018.
 
 ## Experiences
 **Alibaba Cloud, Hangzhou, China**
-- Research Intern, Jun. 2020 - present
+- Research Intern, Jun. 2020 -- present
 
 **COMP4651: Cloud Computing and Big Data Systems, HKUST**
 - Teaching Assistant, Fall 2018, 2019
@@ -51,7 +51,7 @@ Systems *(ICDCS’18)*, Vienna, Austria, July, 2018.
 
 ## Awards and Fellowships
 **Hong Kong PhD Fellowship**
-- Research Grants Council (RGC) of Hong Kong, 2017 - 2020
+- Research Grants Council (RGC) of Hong Kong, 2017--2020
 
 **Shanghai Outstanding Graduates (2%)**
 - Shanghai Jiao Tong University, 2017
