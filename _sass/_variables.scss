@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 // $serif                      : Georgia, Times, serif;
-$serif                      : "PT Serif", Georgia, "Microsoft YaHei", Times, serif;
+$serif                      : "PT Serif", Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -30,9 +30,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif-narrow;
-$caption-font-family        : $serif;
+$global-font-family         : $sans-serif, "Microsoft YaHei";
+$header-font-family         : $sans-serif, "Microsoft YaHei";
+$caption-font-family        : $serif, "Microsoft YaHei";
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
