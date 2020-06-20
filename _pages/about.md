@@ -14,14 +14,14 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 ## Education
 **Hong Kong University of Science and Technology, Hong Kong SAR, China**
-- Ph.D. Candidate, Department of Computer Science and Engineering, Sep. 2017 –- present
+- Ph.D. Candidate, Department of Computer Science and Engineering, Sep. 2017 -- present
 - Supervisor: [Wei WANG](https://www.cse.ust.hk/~weiwa/)
 
 **University of California, Berkeley, CA, US**
-- Exchange student, Jun. 2015 -– Aug. 2015
+- Exchange student, Jun. 2015 -- Aug. 2015
 
 **Shanghai JiaoTong University, Shanghai, China**
-- B.Eng. (Shanghai Outstanding Graduates), Information Security, Sep. 2013 –- Jun. 2017
+- B.Eng. (Shanghai Outstanding Graduates), Information Security, Sep. 2013 -- Jun. 2017
 
 
 ## Publications
@@ -51,7 +51,7 @@ Systems *(ICDCS’18)*, Vienna, Austria, July, 2018.
 
 ## Awards and Fellowships
 **Hong Kong PhD Fellowship**
-- Research Grants Council (RGC) of Hong Kong, 2017--2020
+- Research Grants Council (RGC) of Hong Kong, 2017 -- 2020
 
 **Shanghai Outstanding Graduates (2%)**
 - Shanghai Jiao Tong University, 2017
