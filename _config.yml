@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qizhen Weng 翁祈桢"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. Candidate of Computer Science and Engineering, Hong Kong University of Science and Technology"
+  bio              : "Ph.D. Candidate of Computer Science and Engineering, HKUST"
   location         : Hong Kong SAR, China #"Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?&user=DRK_fx4AAAAJ # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "email.png"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

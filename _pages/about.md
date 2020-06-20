@@ -15,7 +15,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 ## Education
 **Hong Kong University of Science and Technology, Hong Kong SAR, China**
 - Ph.D. Candidate, Computer Science and Engineering, Sep. 2017 -- present
-- Supervisor: [Wei Wang](https://www.cse.ust.hk/~weiwa/)
+- Supervisor: [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/).
 
 **University of California, Berkeley, CA, US**
 - Exchange Student, Jun. 2015 -- Aug. 2015

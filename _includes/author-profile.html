@@ -31,9 +31,14 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% if author.email contains "://" %}
+    	  <img src="{{ author.email }}" alt="{{ author.email }}">
+      {% else %}
+        <img src="{{ author.email | prepend: "/images/" | prepend: base_path }}" class="author__email" alt="{{ author.email }}">
       {% endif %}
+      <!-- {% if author.email %} -->
+        <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
+      <!-- {% endif %} -->
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
