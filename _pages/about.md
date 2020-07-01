@@ -26,7 +26,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 ## Publications
 - Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li,
-"Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale,"
+"[Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale](##),"
 to appear in IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
 Atlanta, GA, November 2020 ([**SC20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
 
