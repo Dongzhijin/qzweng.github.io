@@ -18,7 +18,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 - Supervisor: [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/).
 
 **University of California, Berkeley, CA, US**
-- Exchange Student, Jun. 2015 -- Aug. 2015
+- Visiting Student, Jun. 2015 -- Aug. 2015
 
 **Shanghai Jiao Tong University, Shanghai, China**
 - Bachelor of Engineering, [Information Security](https://infosec.sjtu.edu.cn/), Sep. 2013 -- Jun. 2017
@@ -28,7 +28,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 - Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li,
 "[Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale](##),"
 to appear in IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
-Atlanta, GA, November 2020 ([**SC20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
+Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
 
 - Huangshi Tian, **Qizhen Weng**, and Wei Wang,
 "[Towards Framework-Independent, Non-Intrusive Performance Characterization for Dataflow Computation](https://qzweng.github.io/files/2019ApSys-Perf-Tian.pdf),"
@@ -47,16 +47,22 @@ Systems, Vienna, Austria, July 2018 ([**ICDCS’18**](https://icdcs2018.ocg.at/)
 
 
 ## Experiences
-**COMP4651: Cloud Computing and Big Data Systems, HKUST**
-- Teaching Assistant, Fall 2018, 2019
+**Alibaba Cloud, Hangzhou**
+- Research Intern, Jun. 2020 -- present
+
+**COMP4651: Cloud Computing and Big Data Systems, HKUST, HKSAR**
+- Teaching Assistant, Fall 2018, Fall 2019
+
+**SAP, Shanghai**
+- IT Support Intern, Jun. 2016 -- Dec. 2016
 
 
 ## Awards and Fellowships
 **[Hong Kong Ph.D. Fellowship Award](https://cerg1.ugc.edu.hk/hkpfs/index.html)**
 - Research Grants Council (RGC) of Hong Kong, 2017 -- 2020
 
-**Shanghai Outstanding Graduates (2%)**
-- Shanghai Jiao Tong University, 2017
+**[Shanghai Outstanding Graduates (1%)](http://xsb.seiee.sjtu.edu.cn/xsb/info/16587.html)**
+- Shanghai Municipal Education Commission, 2017
 
 **[Cyber-Security Scholarship](http://www.cidf.net/2016-05/20/c_1118905072.htm)**
 - China Internet Development Foundation (CIDF), 2016
