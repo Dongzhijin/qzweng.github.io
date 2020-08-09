@@ -30,6 +30,11 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 to appear in IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
 Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
 
+- Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li,
+"[Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments](##),"
+to appear in the Proceedings of ACM Symposium on Cloud Computing,
+Renton, WA, October 2020 ([**SoCC’20**](https://acmsocc.github.io/2020/)).
+
 - Huangshi Tian, **Qizhen Weng**, and Wei Wang,
 "[Towards Framework-Independent, Non-Intrusive Performance Characterization for Dataflow Computation](https://qzweng.github.io/files/2019ApSys-Perf-Tian.pdf),"
 in the Proceedings of ACM SIGOPS Asia-Pacific Workshop on Systems,
