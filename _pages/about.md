@@ -66,7 +66,7 @@ Systems, Vienna, Austria, July 2018 ([**ICDCS’18**](https://icdcs2018.ocg.at/)
 **[Hong Kong Ph.D. Fellowship Award](https://cerg1.ugc.edu.hk/hkpfs/index.html)**
 - Research Grants Council (RGC) of Hong Kong, 2017 -- 2020
 
-**[Shanghai Outstanding Graduates (1%)](http://xsb.seiee.sjtu.edu.cn/xsb/info/16587.html)**
+**[Shanghai Outstanding Graduates (1%)](http://xsb.seiee.sjtu.edu.cn/xsb/info/12484.htm)**
 - Shanghai Municipal Education Commission, 2017
 
 **[Cyber-Security Scholarship](http://www.cidf.net/2016-05/20/c_1118905072.htm)**
