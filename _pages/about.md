@@ -50,6 +50,10 @@ Carlsbad, CA, October 2018 ([**SoCC'18**](https://acmsocc.github.io/2018/)).
 in the Proceedings of IEEE International Conference on Distributed Computing
 Systems, Vienna, Austria, July 2018 ([**ICDCS'18**](https://icdcs2018.ocg.at/)).
 
+- Cunqing Hua, **Qizhen Weng**, Weixin Li, Zhaohui Jiang, and Kun Yang,
+"[Phishing Wi-Fi detection method](https://qzweng.github.io/files/2016CNPatent-Phishing-CN106330935B-Hua.pdf),"
+CN106330935B, China National Intellectual Property Administration, Aug 2016.
+
 
 ## Experiences
 **Alibaba Cloud, Hangzhou**
