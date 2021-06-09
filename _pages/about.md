@@ -14,8 +14,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 ## Education
 **Hong Kong University of Science and Technology, Hong Kong SAR, China**
-- Ph.D. Candidate, [Computer Science and Engineering](https://cse.ust.hk/), Sep. 2017 -- present
-- Supervisor: [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/).
+- Ph.D. Candidate, [CSE](https://cse.ust.hk/), advised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/), Sep. 2017 -- present
 
 **University of California, Berkeley, CA, US**
 - Visiting Student, Jun. 2015 -- Aug. 2015
@@ -25,37 +24,33 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 
 ## Publications
-- **Qizhen Weng**, Wencong Xiao, Yinghao Yu, Wei Wang, Cheng Wang, Jian He, Yong Li, Liping Zhang, Wei Lin, and Yu Ding, "[MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters]()," to appear in the 19th USENIX Symposium on Networked Systems Design and Implementation,
-Renton, WA, April 2022 ([**NSDI'22**](https://www.usenix.org/conference/nsdi22/)).
+- [MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters]()
+  - **Qizhen Weng**, Wencong Xiao, Yinghao Yu, Wei Wang, Cheng Wang, Jian He, Yong Li, Liping Zhang, Wei Lin, and Yu Ding
+  - to appear in the 19th USENIX Symposium on Networked Systems Design and Implementation, Renton, WA, April 2022 ([**NSDI'22**](https://www.usenix.org/conference/nsdi22/)).
 
-- Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li,
-"[Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng.pdf),"
-in the Proceedings of IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
-Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
+- [Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng.pdf)
+  - Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li (\* indicates co-first authorship)
+  - in the Proceedings of IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). 
 
-- Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li,
-"[Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments](https://qzweng.github.io/files/2020SoCC-LBBSP-Chen.pdf),"
-in the Proceedings of ACM Symposium on Cloud Computing,
-Renton, WA, October 2020 ([**SoCC'20**](https://acmsocc.github.io/2020/)).
+- [Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments](https://qzweng.github.io/files/2020SoCC-LBBSP-Chen.pdf)
+  - Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li
+  - in the Proceedings of ACM Symposium on Cloud Computing, Renton, WA, October 2020 ([**SoCC'20**](https://acmsocc.github.io/2020/)).
 
-- Huangshi Tian, **Qizhen Weng**, and Wei Wang,
-"[Towards Framework-Independent, Non-Intrusive Performance Characterization for Dataflow Computation](https://qzweng.github.io/files/2019ApSys-Perf-Tian.pdf),"
-in the Proceedings of ACM SIGOPS Asia-Pacific Workshop on Systems,
-Hangzhou, China, August 2019 ([**APSys'19**](https://icsr.zju.edu.cn/apsys2019/)).
+- [Towards Framework-Independent, Non-Intrusive Performance Characterization for Dataflow Computation](https://qzweng.github.io/files/2019ApSys-Perf-Tian.pdf)
+  - Huangshi Tian, **Qizhen Weng**, and Wei Wang
+  - in the Proceedings of ACM SIGOPS Asia-Pacific Workshop on Systems, Hangzhou, China, August 2019 ([**APSys'19**](https://icsr.zju.edu.cn/apsys2019/)).
 
-- Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li,
-"[Fast Distributed Deep Learning via Worker-adaptive Batch Sizing](https://qzweng.github.io/files/2018SoCC-LBBSP-Chen.pdf)," poster
-paper in the Proceedings of ACM Symposium on Cloud Computing,
-Carlsbad, CA, October 2018 ([**SoCC'18**](https://acmsocc.github.io/2018/)).
+- [Fast Distributed Deep Learning via Worker-adaptive Batch Sizing](https://qzweng.github.io/files/2018SoCC-LBBSP-Chen.pdf)
+  - Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li
+  - poster paper in the Proceedings of ACM Symposium on Cloud Computing, Carlsbad, CA, October 2018 ([**SoCC'18**](https://acmsocc.github.io/2018/)).
 
-- Yinghao Yu, Wei Wang, Jun Zhang, **Qizhen Weng**, and Khaled B. Letaief,
-"[OpuS: Fair and Efficient Cache Sharing for In-Memory Data Analytics](https://qzweng.github.io/files/2018ICDCS-OpuS-Yu.pdf),"
-in the Proceedings of IEEE International Conference on Distributed Computing
-Systems, Vienna, Austria, July 2018 ([**ICDCS'18**](https://icdcs2018.ocg.at/)).
+- [OpuS: Fair and Efficient Cache Sharing for In-Memory Data Analytics](https://qzweng.github.io/files/2018ICDCS-OpuS-Yu.pdf)
+  - Yinghao Yu, Wei Wang, Jun Zhang, **Qizhen Weng**, and Khaled B. Letaief
+  - in the Proceedings of IEEE International Conference on Distributed Computing Systems, Vienna, Austria, July 2018 ([**ICDCS'18**](https://icdcs2018.ocg.at/)).
 
-- Cunqing Hua, **Qizhen Weng**, Weixin Li, Zhaohui Jiang, and Kun Yang,
-"[Phishing Wi-Fi detection method](https://qzweng.github.io/files/2016CNPatent-Phishing-CN106330935B-Hua.pdf),"
-CN106330935B, China National Intellectual Property Administration, Aug 2016.
+- [Phishing Wi-Fi detection method](https://qzweng.github.io/files/2016CNPatent-Phishing-CN106330935B-Hua.pdf)
+  - Cunqing Hua, **Qizhen Weng**, Weixin Li, Zhaohui Jiang, and Kun Yang
+  - CN106330935B, China National Intellectual Property Administration, Aug 2016.
 
 
 ## Experiences
