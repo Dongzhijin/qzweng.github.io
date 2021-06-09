@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Research Interest
-I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>cluster management</u> with <u>machine learning</u> techniques.
+I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques.
 
 
 ## Education
@@ -25,14 +25,17 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 
 ## Publications
+- **Qizhen Weng**, Wencong Xiao, Yinghao Yu, Wei Wang, Cheng Wang, Jian He, Yong Li, Liping Zhang, Wei Lin, and Yu Ding, "[MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters]()," to appear in the 19th USENIX Symposium on Networked Systems Design and Implementation,
+Renton, WA, April 2022 ([**NSDI'22**](https://www.usenix.org/conference/nsdi22/)).
+
 - Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li,
 "[Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng.pdf),"
-to appear in IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
+in the Proceedings of IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis,
 Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). (\* indicates co-first authorship)
 
 - Chen Chen, **Qizhen Weng**, Wei Wang, Baochun Li, and Bo Li,
 "[Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments](https://qzweng.github.io/files/2020SoCC-LBBSP-Chen.pdf),"
-to appear in the Proceedings of ACM Symposium on Cloud Computing,
+in the Proceedings of ACM Symposium on Cloud Computing,
 Renton, WA, October 2020 ([**SoCC'20**](https://acmsocc.github.io/2020/)).
 
 - Huangshi Tian, **Qizhen Weng**, and Wei Wang,
