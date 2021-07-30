@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## Research Interest
-I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques.
+I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, with a special focus on <u>AI/GPU cluster management</u> with <u>machine learning</u> techniques. **(On Job Market)**
 
 
 ## Education
 **Hong Kong University of Science and Technology, Hong Kong SAR, China**
-- Ph.D. Candidate, [CSE](https://cse.ust.hk/), advised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/), Sep. 2017 -- present
+- Ph.D. Candidate, [CSE](https://cse.ust.hk/), advised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/), Sep. 2017 -- Aug. 2022 (expected)
 
 **University of California, Berkeley, CA, US**
 - Visiting Student, Jun. 2015 -- Aug. 2015
@@ -24,7 +24,7 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
 
 
 ## Publications
-- **MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters** [[paper]]() [[code]](https://github.com/alibaba/clusterdata/)
+- **MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters** [paper] [[data]](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020)
   - **Qizhen Weng**, Wencong Xiao, Yinghao Yu, Wei Wang, Cheng Wang, Jian He, Yong Li, Liping Zhang, Wei Lin, and Yu Ding
   - to appear in the 19th USENIX Symposium on Networked Systems Design and Implementation, Renton, WA, April 2022 ([**NSDI'22**](https://www.usenix.org/conference/nsdi22/)).
 
