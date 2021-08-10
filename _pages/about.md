@@ -28,8 +28,8 @@ I am broadly interested in <u>cloud computing</u> and <u>big data systems</u>, w
   - **Qizhen Weng**, Wencong Xiao, Yinghao Yu, Wei Wang, Cheng Wang, Jian He, Yong Li, Liping Zhang, Wei Lin, and Yu Ding
   - to appear in the 19th USENIX Symposium on Networked Systems Design and Implementation, Renton, WA, April 2022 ([**NSDI'22**](https://www.usenix.org/conference/nsdi22/)).
 
-- **Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale** [[paper]](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng.pdf) [[code]](https://github.com/lwangbm/Metis)
-  - Luping Wang\*, **Qizhen Weng**\*, Wei Wang, Chen Chen, and Bo Li (\* indicates co-first authorship)
+- **Metis: Learning to Schedule Long-Running Applications in Shared Container Clusters at Scale** [[paper]](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng.pdf) [[slides]](https://qzweng.github.io/files/2020SC-Metis-Wang_Weng-slides.pdf) [[code]](https://github.com/lwangbm/Metis)
+  - Luping Wang\*, **Qizhen Weng**\* (*: co-first author), Wei Wang, Chen Chen, and Bo Li
   - in the Proceedings of IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis, Atlanta, GA, November 2020 ([**SC'20**](https://sc20.supercomputing.org/)). 
 
 - **Semi-Dynamic Load Balancing: Efficient Distributed Learning in Non-Dedicated Environments** [[paper]](https://qzweng.github.io/files/2020SoCC-LBBSP-Chen.pdf)
